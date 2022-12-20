@@ -1,4 +1,4 @@
-# Snake Hunt: A Multiplayer Web Game with Python
+# Snake Hunt: A Multiplayer Game with Python
 ### John Bernardin, Jaffar Alzeidi, Sean Britt, Katrina Janeczko
 
 ## Description
