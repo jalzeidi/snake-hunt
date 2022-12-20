@@ -11,17 +11,12 @@ On Windows and Mac:
 2. Download `client.exe` (Windows) or `client` (Mac) from the latest release, this will now be called the client executable.
 3. Open the server executable. Your OS may warn you, but you can safely ignore the messages.
 4. A terminal will pop up, **note the IP and port number**. 
-<img width="513" alt="Screen Shot 2022-11-28 at 10 29 57 PM" src="https://user-images.githubusercontent.com/73796086/204432021-766e6d84-a402-4d1a-aa87-980c201fd56e.png">
-
 5. Open the client executable, also ignore warning messages.
 6. A terminal will pop up prompting an input for IP, enter the IP found at step 4.
 7. Enter port number found at step 4.
 8. A window will pop up prompting for a name. Enter a name under 32 characters and press `Play` to begin gameplay from your client!
 9. Repeat 5 - 8 to connect multiple clients (from a single computer, you can open multiple terminals and open the client executable in each terminal)
 10. To exit the game from the client, cick the red `x` in the upper left corner. To shut down the server, type 'exit' in the terminal.
-<img width="509" alt="Screen Shot 2022-11-28 at 10 32 54 PM" src="https://user-images.githubusercontent.com/73796086/204432284-3cb7724f-4dfa-471e-8a6a-f3e946a2170d.png">
-
-<img width="276" alt="Screen Shot 2022-11-28 at 10 38 40 PM" src="https://user-images.githubusercontent.com/73796086/204432857-ce3d15e2-60de-4f1a-b143-33095cd75727.png">
 
 ## Alternate way to run
 Alternatively, if you do not want to download an executable for Windows or Mac, or if you use Linux,
@@ -50,8 +45,7 @@ To run the executable, do the following:
 6. If you are still having trouble, you may need to follow the instructions for cloning the repository and running the code directly from the terminal.
 
 ## How to play
-* Use the Up/Down/Left/Right arrow keys to navigate the snake
-* Use your computer's volume controls to turn the sound up or down
+* Use the arrow keys or WASD to navigate the snake
 
 ## How to contribute
 Follow this project board to know the latest status of the project: [https://github.com/orgs/cis3296f22/projects/97](https://github.com/orgs/cis3296f22/projects/97)  
