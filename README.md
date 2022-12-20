@@ -2,7 +2,7 @@
 ### By: John Bernardin, Jaffar Alzeidi, Sean Britt, Katrina Janeczko
 
 ## Description
-A multiplayer snake game. Each player controls a snake. Each snake must avoid colliding with itself and other snakes, and consume pellets to grow. A leaderboard keeps track of the lengths of the snakes in game. Upon starting the game, each player enters a name to distinguish themselves from other players. When a snake consumes a pellet, it adds a block (or multiple) of that pellet's color to its body, causing an increase in size and score.<br><br>
+A multiplayer snake game. Each player controls a snake. Each snake must avoid colliding with itself and other snakes, and consume pellets to grow. A leaderboard keeps track of the lengths of the snakes in game. Upon starting the game, each player enters a name to distinguish themselves from other players. When a snake consumes a pellet, it adds a block (or multiple) of that pellet's color to its body, causing an increase in size and score. When a snake dies, its body is turned into pellets for other snakes to consume.<br><br>
 <img width="495" alt="Screen Shot 2022-11-28 at 10 28 21 PM" src="https://user-images.githubusercontent.com/73796086/204431645-88d2bb55-bf96-46f3-ba13-0d6410ddb9f7.png">
 
 ## How to run
