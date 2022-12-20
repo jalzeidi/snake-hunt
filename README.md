@@ -1,5 +1,5 @@
 # Snake Hunt: A Multiplayer Game with Python
-### John Bernardin, Jaffar Alzeidi, Sean Britt, Katrina Janeczko
+### By: John Bernardin, Jaffar Alzeidi, Sean Britt, Katrina Janeczko
 
 ## Description
 A multiplayer snake game. Each player controls a snake. Each snake must avoid colliding with itself and other snakes, and consume pellets to grow. A leaderboard keeps track of the lengths of the snakes in game. Upon starting the game, each player enters a name to distinguish themselves from other players. When a snake consumes a pellet, it adds a block (or multiple) of that pellet's color to its body, causing an increase in size and score. 
