@@ -6,10 +6,10 @@ A multiplayer snake game. Each player controls a snake. Each snake must avoid co
 
 ## Demo
 #### Name Selection
-<img src="https://github.com/jalzeidi/snake-hunt/blob/readme/demo/name_selection.gif" width=25% />
+<img src="https://github.com/jalzeidi/snake-hunt/blob/main/demo/name_selection.gif" width=25% />
 
 #### Gameplay
-<img src="https://github.com/jalzeidi/snake-hunt/blob/readme/demo/gameplay.gif" width=50% />
+<img src="https://github.com/jalzeidi/snake-hunt/blob/main/demo/gameplay.gif" width=50% />
 
 ## How to run
 On Windows and Mac:
